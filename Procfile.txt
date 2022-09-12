@@ -1,1 +1,1 @@
-worker: python choyxona_test.py
+worker: python main.py
